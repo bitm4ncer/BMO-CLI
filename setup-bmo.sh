@@ -257,7 +257,27 @@ fi
 echo ""
 
 # ============================================
-# Step 5: Install BMO function
+# Step 5: Create BMO history directory
+# ============================================
+print_step "Creating BMO history directory..."
+
+BMO_HISTORY_DIR="$HOME/.local/share/bmo"
+BMO_HISTORY_FILE="$BMO_HISTORY_DIR/history.json"
+
+mkdir -p "$BMO_HISTORY_DIR"
+
+# Initialize empty history file if it doesn't exist
+if [ ! -f "$BMO_HISTORY_FILE" ]; then
+    echo "[]" > "$BMO_HISTORY_FILE"
+    print_success "BMO history initialized at $BMO_HISTORY_FILE"
+else
+    print_success "BMO history directory already exists"
+fi
+
+echo ""
+
+# ============================================
+# Step 6: Install BMO function
 # ============================================
 print_step "Installing BMO function..."
 
@@ -285,7 +305,7 @@ fi
 echo ""
 
 # ============================================
-# Step 6: Configure Fish config file
+# Step 7: Configure Fish config file
 # ============================================
 print_step "Configuring Fish shell..."
 
@@ -320,7 +340,7 @@ fi
 echo ""
 
 # ============================================
-# Step 7: Install BMO Fastfetch Theme
+# Step 8: Install BMO Fastfetch Theme
 # ============================================
 print_step "Installing BMO Fastfetch theme..."
 
@@ -373,7 +393,7 @@ fi
 echo ""
 
 # ============================================
-# Step 8: Configure shell profiles for fastfetch
+# Step 9: Configure shell profiles for fastfetch
 # ============================================
 print_step "Configuring shell profiles to run fastfetch..."
 
@@ -426,7 +446,7 @@ fi
 echo ""
 
 # ============================================
-# Step 9: Verify installation
+# Step 10: Verify installation
 # ============================================
 print_step "Verifying installation..."
 

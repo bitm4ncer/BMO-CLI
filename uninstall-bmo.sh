@@ -51,6 +51,7 @@ echo -e "${YELLOW}This will remove BMO CLI Assistant and Fastfetch theme from yo
 echo ""
 echo "The following will be removed:"
 echo "  • BMO Fish function (~/.config/fish/functions/bmo.fish)"
+echo "  • BMO conversation history (~/.local/share/bmo/)"
 echo "  • BMO Fastfetch theme (~/.config/fastfetch/)"
 echo "  • API key from Fish config (~/.config/fish/config.fish)"
 echo "  • Fastfetch startup entries from shell profiles"
@@ -141,7 +142,36 @@ fi
 echo ""
 
 # ============================================
-# Step 4: Remove Fastfetch theme
+# Step 4: Remove BMO conversation history
+# ============================================
+print_step "Removing BMO conversation history..."
+
+BMO_HISTORY_DIR="$HOME/.local/share/bmo"
+
+if [ -d "$BMO_HISTORY_DIR" ]; then
+    echo ""
+    echo -e "${YELLOW}BMO history directory found at: $BMO_HISTORY_DIR${NC}"
+    echo "This contains your conversation history with BMO."
+    echo ""
+    read -p "Remove BMO history? (y/N): " -n 1 -r
+    echo ""
+
+    if [[ $REPLY =~ ^[Yy]$ ]]; then
+        # Create backup
+        HISTORY_BACKUP_DIR="$HOME/.local/share/bmo.bmo-backup-$(date +%Y%m%d-%H%M%S)"
+        mv "$BMO_HISTORY_DIR" "$HISTORY_BACKUP_DIR"
+        print_success "BMO history moved to $HISTORY_BACKUP_DIR"
+    else
+        print_warning "BMO history kept at $BMO_HISTORY_DIR"
+    fi
+else
+    print_warning "BMO history directory not found"
+fi
+
+echo ""
+
+# ============================================
+# Step 5: Remove Fastfetch theme
 # ============================================
 print_step "Removing BMO Fastfetch theme..."
 
@@ -191,22 +221,35 @@ echo ""
 echo -e "${YELLOW}What was removed:${NC}"
 echo "  ✓ BMO Fish function"
 echo "  ✓ API key configuration"
+echo "  ✓ Conversation history (if selected)"
 echo "  ✓ Fastfetch shell integration"
 echo "  ✓ BMO Fastfetch theme"
 echo ""
 
 echo -e "${YELLOW}Backup files created:${NC}"
+BACKUPS_CREATED=false
 if [ -f "$FISH_CONFIG.bmo-backup" ]; then
     echo "  • $FISH_CONFIG.bmo-backup"
+    BACKUPS_CREATED=true
 fi
 if [ -f "$HOME/.bashrc.bmo-backup" ]; then
     echo "  • $HOME/.bashrc.bmo-backup"
+    BACKUPS_CREATED=true
 fi
 if [ -f "$HOME/.zshrc.bmo-backup" ]; then
     echo "  • $HOME/.zshrc.bmo-backup"
+    BACKUPS_CREATED=true
 fi
-if [ -d "$BACKUP_DIR" ]; then
+if [ -d "$HISTORY_BACKUP_DIR" ] 2>/dev/null; then
+    echo "  • $HISTORY_BACKUP_DIR"
+    BACKUPS_CREATED=true
+fi
+if [ -d "$BACKUP_DIR" ] 2>/dev/null; then
     echo "  • $BACKUP_DIR"
+    BACKUPS_CREATED=true
+fi
+if [ "$BACKUPS_CREATED" = false ]; then
+    echo "  (none)"
 fi
 echo ""
 
