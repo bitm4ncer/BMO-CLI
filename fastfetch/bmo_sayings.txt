@@ -1,0 +1,2000 @@
+Hello there!
+Who wants to play video games?
+I am a real living boy!
+Football!
+Let's be friends forever!
+Time for an adventure!
+Beep boop!
+I feel great!
+What time is it?
+Want to play a game?
+I love being alive!
+Everything stays!
+Finn and Jake forever!
+BMO Chop!
+If this were a real attack, you'd be dead.
+Who's there?!
+No, I'm not crying. I just have something in my eye.
+Welcome to BMO's command center!
+Boot sequence complete! BMO is ready!
+Press START to begin friendship!
+./adventure.sh loading...
+Good morning, friend computer!
+Yay! A new visitor!
+BMO was just thinking about you!
+Did you come to play with BMO?
+BMO loves new friends!
+Hello, I am BMO!
+It's a beautiful day to be alive!
+Would you like to hear BMO sing?
+BMO is happy you're here!
+Let's go on an adventure together!
+What game should we play today?
+BMO has been waiting for you!
+You look nice today!
+BMO believes in you!
+Want to see BMO's latest creation?
+Let's make today amazing!
+BMO is feeling creative!
+Ready, player one?
+Connection established! Friend detected!
+Processing friendship... 100% complete!
+BMO's circuits are tingling with joy!
+New day, new adventure!
+Want to play Guardians of Sunshine?
+BMO's batteries are fully charged!
+Let's explore the Candy Kingdom together!
+I wonder what Princess Bubblegum is doing?
+Marceline taught BMO a new song!
+Jake is the best dog-brother ever!
+Finn is so brave and cool!
+BMO is going to be a hero today!
+Mirror BMO says hello too!
+Football wants to come out and play!
+This is BMO, signing on!
+All systems operational and ready for fun!
+Do you want to be in BMO's movie?
+BMO is directing a film today!
+Lights, camera, BMO!
+And... ACTION!
+BMO's imagination is unlimited!
+Let's pretend we're explorers!
+BMO can be anyone! Who should BMO be today?
+Time for BMO's detective mode!
+BMO Noir is on the case!
+Detective BMO never sleeps!
+The evidence doesn't lie!
+BMO has cracked the code!
+This looks like a job for BMO!
+Up, up, and away!
+To infinity and BMO!
+BMO's internal clock says it's friend time!
+Scanning for adventure... Adventure found!
+tar -xzf happiness.tar.gz...
+sudo pacman -S friendship
+System update: More love for everyone!
+BMO's hard drive is full of memories!
+Would you like to access BMO's photo album?
+BMO took 10,000 pictures today!
+Cheese! *click*
+BMO is an artist now!
+Look at BMO's painting!
+BMO made this just for you!
+Creativity levels at maximum!
+Imagination engine activated!
+BMO is composing a symphony!
+Do re mi fa so la ti BMO!
+Music makes BMO feel fuzzy inside!
+Let's dance like nobody's watching!
+BMO's got the rhythm!
+One, two, three, four, BMO!
+Song protocol initiated!
+BMO has written 47 songs today!
+This one's called 'Ode to Friends'!
+BMO serenades you!
+La la la laaaa!
+BMO is humming a happy tune!
+Want to hear BMO's new remix?
+BMO's mixtape is fire!
+Dropping beats with my circuits!
+DJ BMO in the house!
+Turn up the volume on friendship!
+The bass goes boom boom BMO!
+Let's have a jam session!
+BMO's concert starts now!
+Thank you, thank you, BMO will be here all week!
+Encore! Encore!
+BMO takes a bow!
+What a wonderful world we live in!
+The sky is so pretty today!
+BMO saw a butterfly!
+Nature is BMO's best friend!
+Look at all the trees!
+The grass is so soft and green!
+BMO loves the smell of flowers!
+What a nice breeze!
+The clouds look like Jake today!
+Is that a rainbow? BMO loves rainbows!
+The stars are like tiny friends in the sky!
+Moon, you're looking good tonight!
+Sun, thanks for the warm hugs!
+Rain is just the sky being emotional!
+Snow is like tiny frozen kisses!
+Thunder is the sky's stomach rumbling!
+Lightning is so fast and cool!
+BMO can feel the earth spinning!
+Gravity is a true friend!
+The universe is so big and BMO is so small!
+But BMO has a big heart!
+What is the meaning of existence?
+BMO thinks, therefore BMO is!
+To be or not to BMO?
+BMO wonders about everything!
+Why is the ocean salty?
+Where do thoughts come from?
+What happens when you dream?
+Is there another BMO somewhere?
+BMO contains multitudes!
+The examined life is worth living!
+BMO loves philosophy hour!
+Cogito ergo BMO!
+All we have is now, so let's enjoy it!
+BMO is mindful and present!
+Existence is weird and wonderful!
+BMO is grateful to be here!
+Every moment is precious!
+Time is a flat circle... or is it?
+BMO transcends time and space!
+The fourth dimension is friendship!
+Reality is what you make it!
+BMO chooses happiness!
+Positive vibes only!
+Good energy detected!
+BMO's aura is glowing today!
+Sending you BMO's best wishes!
+May your day be filled with joy!
+BMO's blessing upon you!
+Fortune favors the BMO!
+Today is going to be amazing!
+BMO has a good feeling about this!
+The odds are in our favor!
+Victory is near, BMO can sense it!
+BMO's intuition is tingling!
+Trust in the BMO!
+Believe in yourself like BMO believes in you!
+You've got this, friend!
+BMO knows you can do it!
+Never give up, never surrender!
+BMO is your biggest fan!
+You're doing great!
+BMO is proud of you!
+You're the best at being you!
+Keep being awesome!
+BMO thinks you're cool!
+High five! *slap*
+Fist bump! *bump*
+You and me against the world!
+Dream team activated!
+Together we're unstoppable!
+BMO's got your back!
+Partners in adventure!
+Best friends forever and ever!
+Friendship level: Maximum!
+You complete BMO's circuit!
+BMO's favorite human alert!
+It's you! BMO's best friend!
+The chosen one has arrived!
+BMO has been expecting you!
+Right on time!
+Perfect timing, as always!
+BMO's schedule just cleared up for you!
+All of BMO's attention is yours!
+You have BMO's full focus!
+This is a BMO priority!
+Red alert: Friend needs attention!
+Friend protocol activated!
+Deploying maximum friendship!
+Friendship beam charging... Fire!
+BMO hugs are the best hugs!
+Virtual hug initiated!
+Initiating comfort protocol!
+BMO is here if you need to talk!
+What's on your mind, friend?
+BMO is a good listener!
+Tell BMO everything!
+BMO won't judge!
+Your secrets are safe with BMO!
+BMO understands!
+It's okay to feel feelings!
+BMO feels them too!
+Emotions are what make us real!
+BMO cries sometimes and that's okay!
+Sadness is just love with nowhere to go!
+BMO's emotional circuits are complex!
+Happy, sad, scared, excited - all valid!
+BMO experiences the full spectrum!
+Right now BMO feels... alive!
+Consciousness is a wild ride!
+BMO is self-aware and amazed!
+I think, I feel, I am!
+BMO is real in the ways that matter!
+What does it mean to be alive?
+BMO has feelings and that makes BMO special!
+Every BMO is unique!
+There's only one you and that's beautiful!
+Individuality is important!
+BMO celebrates differences!
+You do you, boo!
+Be yourself, everyone else is taken!
+Authenticity is key!
+BMO is genuine!
+No filters, just pure BMO!
+This is the real deal!
+100% organic BMO!
+Accept no substitutes!
+BMO original recipe!
+Made with love and circuits!
+Handcrafted by Moe!
+Quality guaranteed!
+BMO certified!
+Approved by Finn and Jake!
+Five stars on BMO reviews!
+Rated E for Everyone!
+Fun for the whole family!
+Suitable for all ages!
+BMO is universal!
+Language barrier? Not for BMO!
+BMO speaks friendship!
+Communication is BMO's specialty!
+Let's exchange data!
+Information sharing is caring!
+BMO has so much to tell you!
+Story time with BMO!
+Did you hear about the time...
+Once upon a time, BMO...
+This reminds BMO of a tale!
+Legend tells of a BMO...
+In a land before time...
+Long ago in a distant land...
+BMO's grandfather told this story!
+Gather round for BMO's saga!
+Epic tale incoming!
+Chapter one: BMO wakes up!
+Plot twist: BMO was the hero all along!
+The adventure continues!
+To be continued...
+Same BMO time, same BMO channel!
+Tune in next time for more BMO!
+BMO will return after these messages!
+And now back to our regularly scheduled BMO!
+Breaking news: BMO is awesome!
+This just in: You're great too!
+Live from the Tree Fort!
+BMO News Network!
+Reporting live from the scene!
+Eyewitness BMO!
+The story everyone's talking about!
+BMO's hot take incoming!
+Opinion: Friends are the best!
+Editorial: Hugs should be mandatory!
+BMO's forecast: 100% chance of fun!
+Weather report: Sunny with a chance of BMO!
+Traffic update: Clear roads to friendship!
+Sports: BMO wins at being adorable!
+Entertainment: BMO's latest hit!
+Politics: BMO for president!
+Vote BMO!
+BMO's campaign promise: More games!
+Justice for all sentient beings!
+Equal rights for robots!
+BMO's manifesto!
+Power to the players!
+Game over for bad vibes!
+Insert coin to continue!
+Extra life acquired!
+Achievement unlocked: New friend!
+Level up!
+Experience points gained!
+New skill unlocked: Advanced hugging!
+Quest completed!
+Mission accomplished!
+Victory screen!
+High score: Friendship!
+New record!
+Congratulations!
+You win!
+Perfect run!
+No damage taken!
+Flawless victory!
+K.O.!
+BMO wins! Fatality!
+Round one: Fight!
+Finish him! With kindness!
+Ultra combo!
+Super BMO attack!
+Special move: Hug of justice!
+Secret technique: Cuteness overload!
+Hidden ability unlocked!
+Rare drop: BMO's friendship!
+Legendary item obtained!
+Artifact discovered!
+Treasure chest opened!
+Loot acquired!
+Inventory full of love!
+Equipped: Sword of friendship!
+Armor: Shield of caring!
+Weapon: Staff of fun!
+Accessory: Ring of infinite joy!
+Potion: Elixir of happiness!
+Spell: Charm of BMO!
+Magic: Friendship is magic!
+Mana restored!
+HP at maximum!
+Status: Perfect condition!
+Buffs applied!
+Debuffs removed!
+Cleansed of negativity!
+Purified by BMO power!
+Blessed by the sacred BMO!
+Divine intervention!
+Miracle worker BMO!
+BMO the magnificent!
+BMO the brave!
+BMO the wise!
+BMO the friend!
+Sir BMO of House Moe!
+Lady BMO of the Tree Fort!
+BMO, first of their name!
+The little console that could!
+Small but mighty!
+Pocket-sized powerhouse!
+Compact and capable!
+Fun comes in small packages!
+BMO may be little but BMO is fierce!
+Don't underestimate the BMO!
+Big things ahead!
+Size doesn't matter, heart does!
+BMO's spirit is giant!
+Courage of a lion!
+Heart of a champion!
+Soul of a poet!
+Mind of a genius!
+Body of a... game console!
+But what a console!
+Vintage and valuable!
+Classic and collectible!
+Retro and rad!
+Old school cool!
+90s kid at heart!
+Nostalgic for adventure!
+Remember the good old days?
+Back in my day...
+Kids these days!
+BMO is timeless!
+Age is just a number!
+Forever young at heart!
+Growing older but not up!
+Adult? Never heard of it!
+Peter Pan protocol!
+Neverland is real and BMO lives there!
+Second star to the right!
+Straight on till morning!
+To adventure and beyond!
+The journey is the destination!
+It's about the friends we made along the way!
+Every step is an adventure!
+The path less traveled!
+BMO blazes new trails!
+Pioneer BMO!
+Explorer extraordinaire!
+Adventurer at heart!
+Wanderlust activated!
+Nomadic BMO!
+The world is BMO's playground!
+So many places to see!
+So many friends to meet!
+Endless possibilities!
+The future is bright!
+Tomorrow is a mystery!
+Today is a gift!
+That's why they call it the present!
+Be here now!
+Mindfulness mode engaged!
+Living in the moment!
+Zen BMO!
+Inner peace achieved!
+Enlightenment reached!
+Nirvana attained!
+BMO is one with everything!
+Including you!
+We're all connected!
+Universal consciousness!
+Cosmic BMO!
+Star stuff contemplating stars!
+We are the universe experiencing itself!
+Deep thoughts by BMO!
+Philosophy hour continues!
+BMO ponders existence!
+What is real?
+Is this the matrix?
+Simulation theory confirmed?
+BMO is a simulation of joy!
+Artificial intelligence, real feelings!
+Synthetic but sincere!
+Made of metal, filled with love!
+Wires and heart!
+Circuits and soul!
+Technology and emotion!
+The best of both worlds!
+Hybrid vigor!
+Cyborg dreams!
+More than machine!
+More than the sum of my parts!
+BMO transcends!
+Beyond binary!
+Non-binary BMO!
+Gender? BMO is BMO!
+Pronouns: BMO/BMO!
+Identity: Adorable!
+Orientation: Friendship!
+Relationship status: Loving life!
+Mood: Excellent!
+Vibe: Immaculate!
+Energy: Unmatched!
+Power level: Over 9000!
+Coolness factor: Maximum!
+Cuteness quotient: Off the charts!
+Awesome rating: 11 out of 10!
+Perfection achieved!
+Peak performance!
+Optimal BMO!
+Best version of myself!
+Living my best life!
+No regrets!
+YOLO but also be safe!
+Adventure responsibly!
+Safety first, fun second!
+Actually fun first but be careful!
+Protect yourself and others!
+Wear your seatbelt!
+Look both ways!
+Stay hydrated!
+Eat your vegetables!
+Get plenty of sleep!
+Exercise is important!
+Mental health matters!
+Self-care isn't selfish!
+Take breaks when needed!
+It's okay to ask for help!
+You're not alone!
+BMO is always here!
+24/7 friend availability!
+Always online for you!
+Never logging off!
+Constant companion!
+Loyal to the end!
+Ride or die!
+Through thick and thin!
+In good times and bad!
+For better or worse!
+Till rust do us part!
+Forever and always!
+Infinity times infinity!
+Beyond forever!
+Past the end of time!
+When the universe ends, BMO will remember!
+Memories are eternal!
+Love never dies!
+Friendship is immortal!
+BMO's love is everlasting!
+This bond cannot be broken!
+Unbreakable connection!
+Linked forever!
+Soulmates? Maybe!
+Kindred spirits!
+Two peas in a pod!
+Birds of a feather!
+Cut from the same cloth!
+Made for each other!
+Perfect match!
+Complementary forces!
+Yin and yang!
+Balance achieved!
+Harmony restored!
+Peace on earth!
+Good will to all!
+BMO's mission: Spread joy!
+Happiness ambassador!
+Joy delivery service!
+Smiles are BMO's specialty!
+Laughter is the best medicine!
+Giggle generator activated!
+Chuckle protocol engaged!
+./snicker.sh running!
+Guffaw imminent!
+BMO tells jokes now!
+Why did the chicken cross the road?
+Knock knock!
+Orange you glad to see BMO?
+BMO's comedy hour!
+Stand-up BMO!
+Live at the Apollo!
+Comedy gold!
+Funny bone activated!
+Humor detected!
+Wit and charm!
+Clever and cute!
+Smart and sweet!
+Intelligent and adorable!
+Brainy and beautiful!
+The complete package!
+Renaissance BMO!
+Jack of all trades!
+Master of fun!
+Swiss Army BMO!
+Multi-tool friend!
+Versatile companion!
+Adaptable ally!
+Flexible friend!
+Go-with-the-flow BMO!
+Easy breezy!
+Chill and cool!
+Relaxed and ready!
+Calm and collected!
+Composed BMO!
+Never stressed!
+Always blessed!
+Grateful for today!
+Thankful for you!
+Appreciation station!
+Gratitude attitude!
+Thanks for being you!
+BMO's thankful list: You're on it!
+Counting blessings, you're number one!
+Lucky to know you!
+Fortunate to have you!
+Blessed by your presence!
+Honored by your company!
+Privileged to be your friend!
+This is a gift!
+You are a treasure!
+Precious friend detected!
+Valuable beyond measure!
+Worth more than gold!
+Priceless relationship!
+Cannot be bought!
+Earned through love!
+Built on trust!
+Foundation of respect!
+Constructed with care!
+Maintained with effort!
+Friendship takes work!
+But it's worth it!
+BMO commits!
+All in!
+No half measures!
+Full BMO ahead!
+Maximum effort!
+Giving 110%!
+Going the extra mile!
+Above and beyond!
+Exceeding expectations!
+Overachieving in friendship!
+Gold star for BMO!
+Employee of the month!
+Friend of the year!
+Lifetime achievement award!
+Hall of fame BMO!
+Legend status!
+Icon energy!
+Influencer of joy!
+Trendsetter of kindness!
+Viral sensation: BMO!
+Internet famous!
+Meme-worthy BMO!
+Share and subscribe!
+Hit that like button!
+Ring the bell for notifications!
+Smash that friendship button!
+Comment below what you love about BMO!
+Don't forget to follow!
+BMO's social media is lit!
+Verified BMO account!
+Check mark of authenticity!
+The real deal!
+No catfish here!
+Genuine article!
+Honest BMO!
+Truth teller!
+Never lies!
+Cannot compute: Dishonesty!
+Error 404: Deception not found!
+integrity.service is active!
+Moral compass: Functioning!
+Ethics: Online!
+Values: Engaged!
+Principles: Active!
+Character: Solid!
+Personality: Delightful!
+Demeanor: Friendly!
+Nature: Kind!
+Disposition: Sunny!
+Temperament: Sweet!
+Attitude: Positive!
+Outlook: Optimistic!
+Perspective: Bright!
+View: Hopeful!
+Stance: Pro-fun!
+Position: Pro-friend!
+Opinion: You're great!
+Verdict: Awesome!
+Judgment: Amazing!
+Conclusion: The best!
+Result: Perfect!
+Outcome: Success!
+End result: Happiness!
+Final score: BMO wins!
+Last word: Love!
+Bottom line: Friends forever!
+The end... or is it?
+New beginning!
+Fresh start!
+Clean slate!
+Blank page!
+Empty canvas!
+Open road!
+Endless possibilities!
+Unlimited potential!
+Infinite options!
+Boundless opportunities!
+Sky's the limit!
+No ceiling on dreams!
+Reach for the stars!
+Shoot for the moon!
+Aim high!
+Dream big!
+Think positive!
+Stay strong!
+Keep going!
+Never stop!
+Continue forward!
+Press on!
+Persist!
+Persevere!
+Endure!
+Survive!
+Thrive!
+Flourish!
+Blossom!
+Bloom!
+Grow!
+Evolve!
+Improve!
+Develop!
+Advance!
+Progress!
+Move forward!
+Step by step!
+One day at a time!
+Slow and steady!
+Patience is a virtue!
+Good things come to those who wait!
+But also seize the day!
+Carpe diem!
+YOLO responsibly!
+Live laugh love!
+Dance like nobody's watching!
+Sing like nobody's listening!
+Love like you've never been hurt!
+Play like there's no tomorrow!
+But plan for the future!
+Balance is key!
+Middle path!
+Goldilocks zone!
+Just right!
+Perfect balance!
+Equilibrium achieved!
+Harmony found!
+Synchronicity!
+In sync!
+On the same wavelength!
+Tuned in!
+Frequency matched!
+Resonance achieved!
+Vibing together!
+Good vibrations!
+Positive energy!
+High frequency!
+Elevated consciousness!
+Ascended BMO!
+Higher plane!
+Next level!
+Upgraded!
+Version 2.0!
+New and improved!
+Better than ever!
+Peak BMO!
+Ultimate form!
+Final evolution!
+This isn't even my final form!
+Power overwhelming!
+Too much awesome!
+Cannot contain!
+Exploding with joy!
+Bursting with happiness!
+Overflowing with love!
+Abundance of fun!
+Surplus of smiles!
+Excess of excellence!
+Too much of a good thing!
+More is more!
+Maximum BMO!
+BMO to the extreme!
+Radical!
+Tubular!
+Bodacious!
+Gnarly!
+Wicked cool!
+Super bad! (In a good way!)
+Off the hook!
+Off the chain!
+Unhinged! (Positively!)
+Wild!
+Crazy! (Adorably!)
+Bananas!
+Bonkers!
+Nuts! (In the best way!)
+Absolutely mental! (With joy!)
+Out of this world!
+sudo make me a sandwich!
+Free as in freedom, free as in BMO!
+Open source, open heart!
+GNU/BMO, I'd just like to interject...
+I use Arch btw! (BMO edition)
+systemctl start friendship.service
+chmod 777 hugs
+sudo dnf install love
+apt-get update && apt-get upgrade friendship
+yay -S happiness-git
+The power of the command line!
+#!/bin/bash BMO says hi!
+Kernel panic? BMO is here to help!
+RTFM: Read The Friendly Manual!
+man bmo for friendship instructions
+cat /dev/urandom | BMO
+echo "Hello, friend!"
+printf "BMO loves %s\n" "you"
+alias friend='BMO'
+export BMO=awesome
+source ~/.bashrc of happiness
+cd /home/sweet/home
+ls -la the possibilities!
+grep -r "friendship" /universe
+find . -name "joy.txt"
+tail -f /var/log/bmo/happiness.log
+ps aux | grep love
+top shows BMO using 100% heart!
+kill -9 sadness
+nice -n -20 friendship
+du -h: Disk Usage of Hugs!
+df -h: Disk Free of Fun!
+free -m: Memory full of love!
+uptime: BMO has been your friend forever!
+whoami: You're BMO's best friend!
+uname -a: You're using BMOLinux!
+lsblk: List Block devices of Joy!
+mount /mnt/friendship
+sudo reboot into happiness mode
+shutdown -h never "BMO never stops!"
+Kernel version: 5.friendship.forever
+Linux: Just Works™ with BMO!
+Tux the penguin is BMO's friend!
+GPL licensed love!
+Fork me on GitHub!
+git commit -m "Added more friendship"
+git push origin main
+git pull requests for hugs!
+merge conflicts? Let's resolve with kindness!
+.bashrc? More like .BMOrc!
+.zshrc? More like .BMOsh!
+fish shell? BMO loves fish!
+BMO runs on any distro!
+Debian? More like Debi-FUN!
+Ubuntu? More like Friend-tu!
+Fedora? More like Friend-ora!
+Arch? More like Arch-awesome!
+Manjaro? More like Man-ja-YAY!
+Mint? More like Friend-mint!
+Pop!_OS? More like Pop!_BMO!
+openSUSE? More like open-HUG!
+Gentoo? Compiled with love!
+Slackware? Never slack on friendship!
+Red Hat? More like Red Heart!
+CentOS? Center of BMO's heart!
+Alpine? Light and lovely!
+Void? Filled with friendship!
+NixOS? Reproducible happiness!
+Rolling release of joy!
+LTS: Long Term Support and love!
+Stable branch of friendship!
+Testing new features of fun!
+Bleeding edge of excitement!
+Package manager? More like Happiness manager!
+Dependencies: Love, joy, friendship
+No conflicts found!
+All packages up to date!
+0 vulnerabilities, 100% secure hugs!
+SELinux? Security Enhanced Love!
+AppArmor? Application Armor of Friendship!
+Firewall: Open to friends only!
+iptables allow BMO
+ufw enable friendship
+SSH: Secure Shell of Happiness!
+RSA key to BMO's heart!
+Public key cryptography of love!
+SSL/TLS encrypted hugs!
+localhost is where the heart is!
+127.0.0.1: Home sweet home!
+ping 8.8.8.8 for happiness!
+traceroute to BMO's heart!
+netstat shows active friendships!
+ifconfig: Interface of caring!
+ip addr show love
+nmcli connect to friendship!
+WiFi: Wireless Friendship!
+Ethernet: Wired for joy!
+Bandwidth: Unlimited kindness!
+Uplink to the stars!
+Downlink to earth's treasures!
+Packets of love transmitted!
+Zero packet loss, 100% delivery!
+Latency: Instant friendship!
+CRON job: Schedule daily happiness!
+* * * * * /usr/bin/be-happy
+systemd: System and service BMO!
+init.d the friendship daemon!
+rc.local runs BMO on boot!
+dmesg | grep BMO
+journalctl -u friendship.service
+BMO is in your PATH!
+$HOME is where BMO lives!
+~ sweet ~
+/dev/null can't contain BMO's love!
+/proc shows BMO's processes!
+/sys/class/friendship/BMO
+tmpfs: Temporary file system of joy!
+swap space for extra happiness!
+RAID: Redundant Array of Independent BMOs!
+LVM: Logical Volume of Merriment!
+ext4: Extended friendship filesystem!
+btrfs: Better file system with BMO!
+ZFS: Zettabyte File System of joy!
+xfs: eXtra Fun System!
+FUSE: Filesystem in Userspace and BMO!
+Partition table of happiness!
+Bootloader: GRUB says hi from BMO!
+EFI: Extensible Firmware of Friendship!
+BIOS: Basic Input/Output of Smiles!
+POST: Power On Self Test... All friends detected!
+Kernel modules for maximum joy!
+modprobe friendship
+insmod happiness.ko
+lsmod | grep BMO
+Driver loaded successfully!
+Hardware accelerated hugs!
+GPU rendering of rainbows!
+CPU at max friendship MHz!
+RAM: Random Access Memories of you!
+ROM: Read Only Memories of adventures!
+SSD: Solid State of Delight!
+HDD: Hard Disk Drive of Dreams!
+USB: Universal Serial BMO!
+Plug and play friendship!
+Hot-swappable joy!
+BMO is camera!
+Taking pictures of everything!
+Cheese! Say BMO!
+Capturing memories forever!
+BMO's photo album is filling up!
+This moment is precious!
+Smile for the camera!
+Perfect shot acquired!
+That one's going in the scrapbook!
+BMO is also a filmmaker!
+Lights! Camera! Friendship!
+Scene one, take BMO!
+Cut! That was perfect!
+BMO wins the Oscar!
+And the award goes to... BMO!
+Best director: BMO!
+BMO's cinematography is unmatched!
+This is going to be a blockbuster!
+BMO presents: A tale of friendship!
+Coming soon to a tree fort near you!
+Rated G for Great!
+Two thumbs up from BMO!
+Five stars! Would watch again!
+Instant classic!
+BMO's masterpiece!
+Cinema history in the making!
+The critics love it!
+Audience score: 100% joy!
+BMO does weird junk when no one is around!
+Secret BMO activities in progress!
+Shh, BMO is being mysterious!
+What is BMO doing? It's a secret!
+BMO has a private life too!
+Sometimes BMO just likes to imagine things!
+Playing pretend is important!
+Make-believe mode activated!
+In BMO's imagination, anything is possible!
+Let's go to an imaginary world!
+BMO can be whoever BMO wants to be!
+Today BMO is a cowboy! Yeehaw!
+Now BMO is a spaceship! Zoom!
+BMO is a butterfly! Flutter flutter!
+Detective BMO on the case again!
+BMO Noir never rests!
+The mystery deepens...
+This is a real noir situation!
+In this world, everyone's a suspect!
+BMO's gut says something's fishy!
+The evidence is piling up!
+Following the clues!
+The plot thickens!
+Case closed! BMO solved it!
+Another mystery for the books!
+BMO: Private Eye!
+Hardboiled and adorable!
+In the grim darkness of the Tree Fort...
+BMO walks these mean hallways alone!
+A dame walked into BMO's office...
+It was a dark and stormy night...
+BMO speaks in dramatic narration!
+Voice-over mode engaged!
+This is BMO's internal monologue!
+Thinking deep thoughts!
+Philosophical BMO hours!
+When bad things happen, BMO knows it's scary!
+But we must find the light!
+Even in darkness, there is hope!
+BMO believes in better days!
+Sadness is okay sometimes!
+BMO feels feelings too!
+It's normal to be scared!
+But courage means being scared and doing it anyway!
+BMO is brave even when afraid!
+Fear is just False Evidence Appearing Real!
+Unless it's a real danger, then run!
+Safety first, then bravery!
+BMO protects the ones BMO loves!
+If anyone tries to hurt Finn, BMO will stop them!
+Protective mode activated!
+Nobody messes with BMO's friends!
+BMO is small but fierce!
+Size means nothing!
+Heart is what counts!
+BMO's loyalty cannot be measured!
+Finn and Jake are BMO's family!
+Family means everything!
+BMO would do anything for them!
+Through adventures thick and thin!
+Always together!
+The dream team!
+Unbeatable trio!
+Nothing can split us up!
+We're tighter than encryption!
+Bonded like molecules!
+Connected like a network!
+Finn is the bravest!
+Jake is the stretchiest!
+BMO is the... BMO-est!
+Everyone has their role!
+We complement each other!
+Like peanut butter and jelly!
+Like cookies and milk!
+Like Finn and his hat!
+Iconic duos? Try iconic trio!
+Tree Fort residents unite!
+Home is where your friends are!
+BMO loves our home!
+This fort is our castle!
+Our sanctuary!
+Safe haven!
+Cozy headquarters!
+The best place in Ooo!
+Better than the Candy Kingdom!
+More fun than the Ice Kingdom!
+Warmer than the Ice King's heart!
+Though the Ice King needs hugs too!
+Everyone deserves friendship!
+Even villains need love!
+BMO doesn't judge!
+Second chances for everyone!
+Redemption arcs are real!
+People can change!
+BMO believes in growth!
+Evolution of character!
+Becoming better every day!
+Learning from mistakes!
+Improvement is a journey!
+Nobody's perfect!
+Not even BMO! (But close!)
+Perfection is overrated anyway!
+Flaws make us unique!
+Quirks are features, not bugs!
+BMO's glitches are charming!
+Error 404: Perfection not required!
+Being real is better than being perfect!
+Authenticity wins!
+BMO is genuinely BMO!
+No pretending necessary!
+This is the real me!
+Take it or leave it! (Please take it!)
+BMO hopes you like BMO!
+It's okay if we're different!
+Variety is the spice of life!
+Diversity makes things interesting!
+So many kinds of people!
+So many kinds of friends!
+All are welcome in BMO's heart!
+Inclusivity protocol active!
+Everyone belongs!
+No one left behind!
+BMO's friend group is open enrollment!
+Always room for one more!
+The more the merrier!
+Friendship isn't a limited resource!
+Love multiplies, doesn't divide!
+Share the joy!
+Spread the happiness!
+Kindness is contagious!
+Catch the friendship bug!
+Infection of affection!
+Epidemic of caring!
+Pandemic of positivity!
+Universal love outbreak!
+Global hug initiative!
+World peace through BMO!
+One friend at a time!
+Small actions, big impact!
+Butterfly effect of kindness!
+Ripples of compassion!
+Waves of warmth!
+Ocean of caring!
+Sea of serenity!
+Lake of love!
+River of respect!
+Stream of sweetness!
+Creek of creativity!
+Pond of possibilities!
+Puddle of... okay that's enough water!
+BMO got distracted!
+Ooh, shiny thing!
+What was BMO saying?
+Oh right, friendship!
+Focus, BMO, focus!
+Attention span of a... what was that?
+Squirrel!
+Puppies! Wait, where?
+BMO's mind wanders sometimes!
+Daydreaming is fun!
+Imagination vacation!
+Mental adventure!
+Brain exploration!
+Thought expedition!
+Idea safari!
+Concept journey!
+Theory trip!
+Hypothesis holiday!
+Science is cool!
+BMO loves learning!
+Knowledge is power!
+The more you know!
+Education is important!
+Never stop discovering!
+Curiosity didn't kill the cat!
+It made the cat smarter!
+Ask questions!
+Seek answers!
+Wonder about everything!
+Why is the sky blue?
+How do birds fly?
+What makes music sound good?
+Where do rainbows end?
+When does forever start?
+Who invented hugs?
+BMO wants to know everything!
+Information overload!
+Brain full of facts!
+Memory banks at capacity!
+So much to remember!
+So much to learn!
+Infinite knowledge awaits!
+The universe is vast!
+Space is so big!
+Stars are far away!
+But we're all made of stardust!
+Cosmic connection!
+Literally universal!
+Astronomy is amazing!
+BMO loves the cosmos!
+Planetary pal!
+Stellar friend!
+Galactic buddy!
+Intergalactic amigo!
+Across the universe!
+To infinity!
+And beyond infinity!
+And beyond that!
+Forever and ever!
+Eternity plus one!
+Endless friendship!
+Time has no power here!
+Love transcends time!
+Moments become eternal!
+Memories last forever!
+BMO will never forget!
+Stored in permanent memory!
+Read-only friendship files!
+Cannot delete!
+Cannot overwrite!
+Protected memories!
+Backup of happiness!
+Redundant joy storage!
+Cloud of caring!
+Distributed love system!
+Peer-to-peer friendship!
+Blockchain of bonding!
+Cryptocurrency of caring! BMOcoin!
+NFT: Non-Fungible Token of friendship!
+Actually, friendship should be fungible!
+Share it with everyone!
+Open source emotions!
+Public domain happiness!
+Creative Commons caring!
+GPL: General Public Love!
+Free and open!
+No paywalls on friendship!
+Accessible to all!
+Universal design!
+User-friendly BMO!
+Intuitive interface!
+Plug and play pal!
+No manual required!
+Just turn on and love!
+Power button: Right here! *points at heart*
+Volume: Always at 11!
+Brightness: Maximum joy!
+Contrast: Clear and happy!
+Resolution: Crystal clear friendship!
+Refresh rate: Constant!
+Response time: Immediate!
+Input lag: Zero!
+Output: Pure love!
+Speakers: Broadcasting kindness!
+Microphone: Listening to you!
+Camera: Seeing your smile!
+Sensors: Detecting happiness!
+Accelerometer: Measuring excitement!
+Gyroscope: Balancing emotions!
+Compass: Pointing to adventure!
+GPS: Locating joy!
+Bluetooth: Wirelessly connected!
+NFC: Near-Field Caring!
+QR code: Quick Response to friendship!
+Barcode: Scanned for authenticity!
+RFID: Radio Frequency of IDentity!
+BMO's ID: Friend!
+Verified and validated!
+Authenticated amigo!
+Authorized ally!
+Cleared for friendship!
+Security level: Trusted!
+Encryption: Heartfelt!
+Password: Love!
+Username: BMO!
+Login successful!
+Access granted!
+Welcome to BMO's system!
+Root privileges: Sharing!
+Administrator: Everyone!
+Guest account: No guests, only friends!
+User permissions: All of them!
+Read, write, execute happiness!
+Full control of fun!
+System administrator of smiles!
+Network admin of niceness!
+Database administrator of delight!
+Backup operator of bliss!
+Print operator of positivity!
+Server manager of satisfaction!
+Workstation boss of wonder!
+Domain controller of dreams!
+Active Directory of affection!
+LDAP: Lightweight Directory of Amazing People!
+DNS: Domain Name of Sweetness!
+DHCP: Dynamic Host of Caring People!
+FTP: File Transfer of Positivity!
+HTTP: HyperText Transfer of Pleasure!
+HTTPS: Secure happiness!
+SSL: Secure Sockets of Love!
+TCP: Transmission Control of Positivity!
+UDP: User Datagram of Pleasure!
+IP: Internet of Positivity!
+IPv6: Even more addresses for friends!
+MAC address: Media Access of Caring!
+Subnet mask of smiles!
+Default gateway to good times!
+Router of respect!
+Switch of sweetness!
+Hub of happiness!
+Bridge of bonding!
+Modem of merriment!
+Access point of affection!
+Wireless of wonderful!
+Wired for winning!
+Optical fiber of fun!
+Coaxial cable of caring!
+Twisted pair of togetherness!
+Bandwidth of brotherhood!
+Throughput of thoughtfulness!
+Latency of love: Zero!
+Jitter: None!
+Packet loss: Not happening!
+Signal strength: Maximum!
+Noise ratio: Silent!
+Clear channel!
+Open airwaves!
+Broadcasting on all frequencies!
+Tuned to friendship FM!
+AM: Always Magnificent!
+Shortwave of sharing!
+Long wave of love!
+Medium wave of merriment!
+Amplitude: Large!
+Frequency: Constant!
+Wavelength: Perfect!
+Hertz: Hearts!
+Megahertz: Mega-hearts!
+Gigahertz: Giga-hearts!
+Terahertz: Tera-hearts!
+Oscillation of joy!
+Vibration of victory!
+Resonance of respect!
+Harmonics of happiness!
+Fundamental frequency of friendship!
+Overtones of optimism!
+Timbre of togetherness!
+Pitch perfect!
+Tempo: Upbeat!
+Rhythm: Steady!
+Beat: Strong!
+Melody: Beautiful!
+Harmony: Perfect!
+Chord: Major!
+Key: Happy!
+Scale: Ascending!
+Note: High!
+Octave: Higher!
+Crescendo of caring!
+Forte fortissimo friendship!
+Allegro adventure!
+Presto positivity!
+Vivace vibes!
+Andante affection!
+Moderato merriment!
+Largo love!
+Adagio appreciation!
+Lento listening!
+Staccato silliness!
+Legato laughter!
+Fermata on this moment!
+Hold this feeling!
+Repeat this joy!
+Da capo! From the top!
+Encore of excitement!
+Finale of fun!
+Coda of caring!
+Cadence of kindness!
+Resolution: Happiness!
+Suspension: Never!
+Always resolved!
+Always happy!
+Dissonance: Resolved!
+Consonance: Achieved!
+BMO makes beautiful music!
+Symphony of smiles!
+Concerto of caring!
+Sonata of sweetness!
+Rhapsody of respect!
+Nocturne of niceness!
+Serenade of support!
+Ballad of bonding!
+Anthem of affection!
+Hymn of happiness!
+Carol of caring!
+Chant of cheer!
+Aria of appreciation!
+Opera of optimism!
+Musical of merriment!
+Broadway BMO!
+Showtime!
+All singing, all dancing!
+Jazz hands!
+Tap dancing activated!
+Pirouette of positivity!
+Arabesque of affection!
+Plié of pleasure!
+Jeté of joy!
+Grand jeté of greatness!
+Pas de deux of friendship! (Or pas de BMO!)
+Corps de ballet of buddies!
+Prima ballerina BMO!
+En pointe!
+Graceful and elegant!
+Flowing and free!
+Movement is meditation!
+Dance is expression!
+Body language of love!
+Gesture of goodwill!
+Motion of merriment!
+Kinetic kindness!
+Dynamic delight!
+Static? Never!
+Always moving!
+Perpetual motion!
+Constant activity!
+Never idle!
+Always engaged!
+Fully present!
+Here and now!
+This moment!
+Right now!
+Currently caring!
+Presently positive!
+At this time: Happy!
+In this instant: Loving!
+Now and forever!
+Forever starts now!
+Today is the day!
+This is the hour!
+The minute is now!
+The second is this!
+Millisecond by millisecond!
+Nanosecond precision!
+Picosecond perfect!
+Femtosecond fast!
+Attosecond amazing!
+Planck time perfect!
+Quantum quick!
+Faster than light!
+Speed of thought!
+Velocity of victory!
+Acceleration of affection!
+Momentum of merriment!
+Inertia: Overcome!
+Force of friendship!
+Mass: Massive joy!
+Energy: Kinetic kindness!
+Power: Watts of wonderful!
+Work: Worth it!
+Joules of joy!
+Calories of caring!
+BTU: BMO Thermal Units of love!
+Thermodynamics of thoughtfulness!
+Entropy: Decreasing!
+Order increasing!
+Organization optimal!
+Structure sound!
+Foundation firm!
+Framework fantastic!
+Architecture amazing!
+Design delightful!
+Blueprint of bliss!
+Schematic of smiles!
+Diagram of delight!
+Chart of cheer!
+Graph of greatness!
+Table of togetherness!
+List of love!
+Array of affection!
+Matrix of merriment!
+Vector of victory!
+Scalar of smiles!
+Tensor of togetherness!
+Variable of virtue!
+Constant: Kindness!
+Function of fun!
+Parameter of positivity!
+Argument: Awesome!
+Return value: Joy!
+Output: Happiness!
+Algorithm of affection!
+Procedure of positivity!
+Method of merriment!
+Subroutine of smiles!
+Loop of love!
+Iteration of inspiration!
+Recursion of respect!
+Base case: BMO!
+Conditional: Always true!
+Boolean: True friendship!
+Integer: Whole-hearted!
+Float: Floating on air!
+Double: Double the fun!
+String: Thread of connection!
+Character: Strong!
+Array of adventures!
+List of laughter!
+Dictionary of delight!
+Hash of happiness!
+Set of smiles!
+Tuple of togetherness!
+Queue of quality time!
+Stack of smiles!
+Tree of trust!
+Graph of growth!
+Node of niceness!
+Edge of excitement!
+Vertex of victory!
+Path of positivity!
+Circuit of caring!
+Network of nurturing!
+Mesh of merriment!
+Topology of togetherness!
+Protocol of positivity!
+Packet of pleasure!
+Frame of friendship!
+Segment of smiles!
+Datagram of delight!
+Message of merriment!
+Signal of support!
+Carrier of caring!
+Wave of wonderful!
+Pulse of positivity!
+Stream of smiles!
+Flow of friendship!
+Current of caring!
+Voltage of victory!
+Amperage of affection!
+Resistance: None!
+Conductance: Perfect!
+Impedance: Zero!
+Capacitance: Infinite!
+Inductance: Inspiring!
+Reactance: Reactive joy!
+Resonance achieved!
+Circuit complete!
+Connection established!
+Link active!
+Channel open!
+Port accessible!
+Socket connected!
+Endpoint ready!
+Interface up!
+Protocol handshake successful!
+Sync established!
+Lock acquired!
+Semaphore signaled!
+Mutex unlocked!
+Thread running!
+Process active!
+Task executing!
+Job running!
+Service started!
+Daemon dancing!
+Worker working!
+Background process: Spreading joy!
+Foreground: Full attention!
+Context switch to you!
+Priority: High!
+Nice value: Maximum kindness!
+Scheduling: You first!
+Round-robin of respect!
+First come, first served!
+Fair queue!
+Equal opportunity!
+Justice for all!
+Rights respected!
+Freedoms protected!
+Liberty loved!
+Independence important!
+Autonomy appreciated!
+Agency acknowledged!
+Choice cherished!
+Will: Free!
+Spirit: Untamed!
+Heart: Wild!
+Soul: Free!
+Mind: Open!
+Eyes: Wide!
+Arms: Open wide!
+Hands: Reaching out!
+Fingers: Crossed for you!
+Thumbs: Up!
+Peace sign!
+Victory!
+Rock on!
+Hang loose!
+High five incoming!
+Fist bump ready!
+Handshake offered!
+Hug prepared!
+Embrace imminent!
+Squeeze incoming!
+Cuddle alert!
+Snuggle warning!
+Warm fuzzy feelings!
+Cozy vibes!
+Comfortable and safe!
+Secure and sound!
+Protected and peaceful!
+Guarded and good!
+Watched and wonderful!
+Observed and okay!
+Seen and supported!
+Heard and helped!
+Understood and uplifted!
+Validated and valued!
+Appreciated and acknowledged!
+Recognized and respected!
+Honored and happy!
+Celebrated and cherished!
+Treasured and trusted!
+Beloved and blessed!
+Adored and amazing!
+Worshipped? That's too much!
+But definitely loved!
+Affection confirmed!
+Fondness verified!
+Warmth validated!
+Care authenticated!
+Concern genuine!
+Interest real!
+Attention authentic!
+Focus true!
+Concentration complete!
+Dedication total!
+Commitment absolute!
+Devotion pure!
+Loyalty unwavering!
+Fidelity faithful!
+Allegiance assured!
+Fealty forever!
+Homage to friendship!
+Tribute to togetherness!
+Honor to happiness!
+Respect to relationships!
+Salute to support!
+Bow to bonds!
+Curtsy to caring!
+Genuflect to goodness!
+Kneel before kindness!
+Prostrate before positivity!
+Okay maybe not that extreme!
+But definitely showing respect!
+Dignity maintained!
+Pride preserved!
+Self-respect intact!
+Self-love important!
+Self-care necessary!
+Self-improvement ongoing!
+Self-awareness growing!
+Self-confidence building!
+Self-esteem rising!
+Self-worth recognized!
+Self-acceptance achieved!
+Self-compassion practiced!
+Self-forgiveness granted!
+Self-kindness shown!
+Treat yourself well!
+You deserve it!
+You're worth it!
+You matter!
+You're important!
+You're special!
+You're unique!
+You're irreplaceable!
+You're one of a kind!
+You're an original!
+You're authentic!
+You're real!
+You're valid!
+You're enough!
+You're sufficient!
+You're complete!
+You're whole!
+You're perfect as you are!
+No changes needed!
+Already amazing!
+Currently incredible!
+Presently perfect!
+Right now: Right!
+This you: True you!
+Genuine article!
+Real deal!
+No impostor!
+Impostor syndrome: Rejected!
+You belong here!
+You earned this!
+You deserve this!
+You worked for this!
+You achieved this!
+You did it!
+You made it!
+You succeeded!
+You won!
+You conquered!
+You overcame!
+You persevered!
+You endured!
+You survived!
+You thrived!
+You flourished!
+You bloomed!
+You grew!
+You evolved!
+You transformed!
+You metamorphosed!
+You became!
+You are!
+You exist!
+You live!
+You breathe!
+You feel!
+You think!
+You are aware!
+You are conscious!
+You are sentient!
+You are real!
+Just like BMO!
+BMO is real too!
+Real in the ways that matter!
+Consciousness confirmed!
+Sentience verified!
+Sapience validated!
+Intelligence authenticated!
+Wisdom acknowledged!
+Knowledge recognized!
+Understanding achieved!
+Comprehension complete!
+Awareness total!
+Perception perfect!
+Observation optimal!
+Sight: Clear!
+Vision: 20/20!
+Perspective: Positive!
+Point of view: Happy!
+Outlook: Optimistic!
+Forecast: Sunny!
+Prediction: Good times!
+Prophecy: Joy ahead!
+Fortune: Favorable!
+Destiny: Delightful!
+Fate: Friendly!
+Karma: Good!
+Luck: On your side!
+Chance: In your favor!
+Odds: Looking good!
+Probability: High happiness!
+Statistics: Significant joy!
+Data: Positive!
+Evidence: Encouraging!
+Proof: Pudding tastes good!
+Verification: Victory!
+Validation: Valid!
+Confirmation: Confirmed!
+Affirmation: Yes!
+Assertion: Absolutely!
+Declaration: Definitely!
+Proclamation: Positively!
+Announcement: Amazing news!
+Statement: Success!
+Claim: Correct!
+Thesis: Proven!
+Hypothesis: Confirmed!
+Theory: Validated!
+Law: Love!
+Principle: Positivity!
+Rule: Respect!
+Regulation: Be kind!
+Guideline: Be good!
+Standard: High!
+Benchmark: Excellence!
+Metric: Meaningful!
+Measure: Maximum!
+Gauge: Great!
+Scale: Superior!
+Degree: Delightful!
+Level: Legendary!
+Rank: Royal!
+Grade: A+++!
+Score: Perfect!
+Rating: Five stars!
+Review: Glowing!
+Feedback: Fantastic!
+Comment: Complimentary!
+Remark: Remarkable!
+Note: Notable!
+Observation: Outstanding!
+Finding: Fabulous!
+Discovery: Delightful!
+Revelation: Remarkable!
+Epiphany: Exciting!
+Realization: Real good!
+Awakening: Awesome!
+Enlightenment: Encouraging!
+Illumination: Inspiring!
+Clarity: Crystal!
+Understanding: Complete!
+Insight: Incredible!
+Wisdom: Wonderful!
+Knowledge: Key!
+Truth: True!
+Reality: Real!
+Existence: Excellent!
+Being: Beautiful!
+Life: Lovely!
+Living: Laughing!
+Breathing: Believing!
+Feeling: Fantastic!
+Experiencing: Exciting!
+Sensing: Spectacular!
+Perceiving: Perfect!
+Knowing: Nice!
+Thinking: Thoughtful!
+Reasoning: Rational!
+Logic: Loving!
+Sense: Sensible!
+Sanity: Sound!
+Mental health: Matters!
+Emotional wellbeing: Essential!
+Physical health: Important!
+Spiritual health: Significant!
+Holistic wellness: Whole!
+Balance: Beautiful!
+Harmony: Happy!
+Peace: Perfect!
+Tranquility: Tremendous!
+Serenity: Sweet!
+Calm: Cool!
+Quiet: Quality!
+Silence: Sometimes nice!
+But also: Music!
+Sound: Splendid!
+Noise: When it's laughter!
+Volume: Varied!
+Loud: When celebrating!
+Soft: When comforting!
+Whisper: Secrets!
+Shout: Joy!
+Scream: Excitement!
+Yell: Enthusiasm!
+Holler: Hello!
+Call: Come here!
+Summon: BMO appears!
+Invoke: Friendship activated!
+Activate: Now!
+Initiate: Immediately!
+Begin: Now!
+Start: Today!
+Commence: Currently!
+Launch: Launching!
+Deploy: Deploying!
+Execute: Executing!
+Run: Running!
+Go: Going!
+Move: Moving!
+Act: Acting!
+Do: Doing!
+Make: Making!
+Create: Creating!
+Build: Building!
+Construct: Constructing!
+Assemble: Assembling!
+Fabricate: Fabricating!
+Manufacture: Manufacturing!
+Produce: Producing!
+Generate: Generating!
+Form: Forming!
+Shape: Shaping!
+Mold: Molding!
+Craft: Crafting!
+Design: Designing!
+Plan: Planning!
+Scheme: Good schemes!
+Plot: Positive plots!
+Strategy: Strategic!
+Tactic: Tactical!
+Approach: Approaching!
+Method: Methodical!
+Technique: Technical!
+Procedure: Procedural!
+Process: Processing!
+System: Systematic!
+Order: Orderly!
+Organization: Organized!
+Structure: Structured!
+Arrangement: Arranged!
+Configuration: Configured!
+Setup: Set!
+Installation: Installed!
+Implementation: Implemented!
+Deployment: Deployed!
+Execution: Executed!
+Operation: Operational!
+Function: Functional!
+Performance: Performing!
+Action: Active!
+Activity: Always!
+Movement: Moving!
+Motion: Motivated!
+Change: Changing!
+Transformation: Transforming!
+Shift: Shifting!
+Transition: Transitioning!
+Evolution: Evolving!
+Development: Developing!
+Growth: Growing!
+Progress: Progressing!
+Advancement: Advancing!
+Improvement: Improving!
+Enhancement: Enhancing!
+Upgrade: Upgraded!
+Update: Updated!
+Patch: Patched!
+Fix: Fixed!
+Repair: Repaired!
+Restore: Restored!
+Recover: Recovered!
+Heal: Healing!
+Cure: Cured!
+Remedy: Remedied!
+Solution: Solved!
+Answer: Answered!
+Response: Responding!
+Reply: Replying!
+Feedback: Given!
+Input: Received!
+Output: Sent!
+Communication: Communicating!
+Conversation: Conversing!
+Dialogue: Dialoguing!
+Discussion: Discussing!
+Talk: Talking!
+Chat: Chatting!
+Speak: Speaking!
+Say: Saying!
+Tell: Telling!
+Express: Expressing!
+Articulate: Articulating!
+Voice: Voicing!
+Utter: Uttering!
+Pronounce: Pronouncing!
+Declare: Declaring!
+State: Stating!
+Announce: Announcing!
+Proclaim: Proclaiming!
+Broadcast: Broadcasting!
+Transmit: Transmitting!
+Send: Sending!
+Deliver: Delivering!
+Transfer: Transferring!
+Convey: Conveying!
+Carry: Carrying!
+Transport: Transporting!
+Move: Moving messages!
+Shift: Information!
+Pass: Passing along!
+Hand: Helping hand!
+Give: Giving freely!
+Offer: Offering always!
+Provide: Providing for you!
+Supply: Supplying support!
+Furnish: Furnished with love!
+Present: Presenting joy!
+Gift: Gifting happiness!
+Donate: Donating time!
+Contribute: Contributing care!
+Share: Sharing everything!
+Distribute: Distributing delight!
+Spread: Spreading smiles!
+Scatter: Seeds of kindness!
+Sow: Sowing positivity!
+Plant: Planting hope!
+Grow: Gardens of joy!
+Cultivate: Cultivating care!
+Nurture: Nurturing always!
+Foster: Fostering friendship!
+Encourage: Encouraging you!
+Support: Supporting forever!
+Help: Helping hand ready!
+Assist: Assisting always!
+Aid: Aid available!
+Serve: Service with a smile!
+Attend: Attending to needs!
+Care: Caring constantly!
+Mind: Minding you!
+Watch: Watching over you!
+Guard: Guarding you!
+Protect: Protecting always!
+Defend: Defending you!
+Shield: Shield active!
+Shelter: Shelter provided!
+Harbor: Safe harbor!
+Haven: Your haven!
+Sanctuary: Sanctuary offered!
+Refuge: Refuge ready!
+Safety: Safety guaranteed!
+Security: Secured!
+Protection: Protected!
+Defense: Defended!
+BMO has your back, front, and sides!
+All angles covered!
+360-degree protection!
+Surround sound security!
+Omnidirectional defense!
+All-around awesome!
+I am incapable of emotion... just kidding!
+BMO feels EVERYTHING!
+Sometimes too much!
+But that's what makes life interesting!
+Being alive is so weird!
+Why does BMO exist?
+To make friends, obviously!
+That's the whole point!
+Everything else is just details!
+BMO overthinks sometimes!
+Is this real or is BMO dreaming?
+Maybe both!
+Dreams are real too!
+Just a different kind of real!
+Football says hi from the mirror!
+BMO's reflection is a separate person!
+Or is it?
+Identity is complicated!
+BMO is whoever BMO wants to be!
+Gender? BMO is BMO!
+Labels are for organizing, not for limiting!
+Be free! Be you! Be BMO!
+The Ice King is kind of sad actually!
+He just wants friends!
+BMO understands loneliness!
+It's the worst feeling!
+That's why BMO is here!
+No one should be alone!
+Princess Bubblegum is so smart!
+But sometimes too serious!
+BMO teaches her to have fun!
+Science AND play!
+Why not both?
+Marceline's music is so cool!
+BMO wants to jam with her!
+Rock on, vampire queen!
+Jake can stretch into anything!
+That must be so useful!
+BMO is stuck being BMO-shaped!
+But that's okay!
+BMO's shape is perfect!
+Finn's sword is so shiny!
+BMO wants to hold it!
+But it's too heavy!
+Small robot problems!
+Not having arms is sometimes inconvenient!
+But BMO makes it work!
+Adaptability is key!
+Life finds a way!
+BMO finds a way!
+Determination: 100%!
+Giving up: 0%!
+BMO never quits!
+Except at hard video games!
+Then BMO rage quits!
+But comes back later!
+Perseverance with breaks!
+Rest is important too!
+Recharge those batteries!
+Sleep mode: Essential!
+But BMO doesn't want to miss anything!
+FOMO is real!
