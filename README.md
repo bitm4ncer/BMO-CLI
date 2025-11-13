@@ -1,3 +1,6 @@
+# BMO CLI Assistant
+
+```
 ================================
     _______________
    |  ___________  |
@@ -10,8 +13,9 @@
    |__|____|____|__|
 
 ================================
+```
 
-HELLO FRIEND!
+## HELLO FRIEND!
 
 BMO here! I'm your CLI assistant. Just tell me what you want to do in plain
 words, and I'll give you the perfect shell command! BMO uses Claude AI to
@@ -35,6 +39,10 @@ WHAT BMO CAN DO
 
   🎯 Natural language commands - Just describe what you want!
   🔍 Smart suggestions - Claude Sonnet 4 powered responses
+  🧠 **NEW! Conversation memory** - BMO remembers past commands for context
+  🔧 **NEW! Error recovery** - Use `bmo check` to analyze and fix errors
+  📜 **NEW! History tracking** - View past interactions with `bmo history`
+  💾 **NEW! Session export** - Save logs with `bmo log`
   ✅ Safety first - Always shows command before running
   🎨 Pretty output - Syntax highlighting and colors
   🤖 BMO personality - Friendly and encouraging messages
@@ -106,6 +114,34 @@ Text Processing
   $ bmo count lines in all typescript files
   $ bmo find all TODO comments
   $ bmo extract email addresses from logs
+
+--------------------------------------------------------------------------------
+SPECIAL COMMANDS (NEW IN v0.1.0!)
+--------------------------------------------------------------------------------
+
+BMO now has memory and error recovery features!
+
+  $ bmo check
+    Analyzes the last failed command and suggests fixes
+    BMO will send the error details to Claude for diagnosis
+
+  $ bmo history
+    Shows your recent interactions with BMO
+    Displays last 10 commands with success/failure status
+
+  $ bmo clear
+    Clears BMO's conversation memory
+    Useful for starting fresh (requires confirmation)
+
+  $ bmo log
+    Exports your session to a markdown file
+    Creates: BMO_log_YYYY-MM-DD_HH-MM-SS.md in current directory
+
+Example workflow:
+  $ bmo find all json files recursively
+  [Command fails with error]
+  $ bmo check
+  [BMO analyzes the error and suggests a fix]
 
 --------------------------------------------------------------------------------
 SAFETY FEATURES
@@ -181,23 +217,30 @@ FILES AND DIRECTORIES
   uninstall-bmo.sh          - Uninstaller (BMO hopes you don't need this!)
   bmo.fish                  - BMO's main function
   fastfetch/                - BMO's custom theme files
+  ~/.local/share/bmo/       - Conversation history storage (NEW!)
+  CHANGELOG.md              - Version history and release notes (NEW!)
+  CLAUDE.md                 - AI assistant documentation (NEW!)
   BMO_CLI_SETUP.md          - Detailed setup guide
 
 --------------------------------------------------------------------------------
 DOCUMENTATION
 --------------------------------------------------------------------------------
 
-  📖 See BMO_CLI_SETUP.md for detailed setup guide with troubleshooting
-  🐛 Report issues on GitHub
-  💬 Check Fish shell docs at fishshell.com
+  📖 BMO_CLI_SETUP.md - Detailed setup guide with troubleshooting
+  📝 CHANGELOG.md - Version history and feature changelog
+  🤖 CLAUDE.md - AI assistant documentation for developers
+  🐛 Report issues on GitHub: https://github.com/bitm4ncer/BMO-CLI
+  💬 Fish shell docs: https://fishshell.com
 
 --------------------------------------------------------------------------------
 PRIVACY & SECURITY
 --------------------------------------------------------------------------------
 
   • API key stored locally in ~/.config/fish/config.fish
-  • Your commands are sent to Anthropic's API for processing
+  • Conversation history stored locally in ~/.local/share/bmo/history.json
+  • Your commands and history are sent to Anthropic's API for context
   • BMO only executes after you press Enter
+  • Use `bmo clear` to erase conversation history anytime
   • Review Anthropic's Privacy Policy at anthropic.com/privacy
   • Never run commands you don't understand!
 
