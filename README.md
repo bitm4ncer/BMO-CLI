@@ -2,15 +2,28 @@
 
 ```
 ================================
-    _______________
-   |  ___________  |
-   | |           | |
-   | |  ^     ^  | |        BMO CLI ASSISTANT
-   | |     ‿     | |
-   | |___________|_|        "I help you with shell commands, friend!"
-   |  ___________  |
-   |  |    |    |  |
-   |__|____|____|__|
+
+
+   ___  __  __  ___  
+  | _ )|  \/  |/ _ \ 
+  | _ \| |\/| | (_) |
+  |___/|_|  |_|\___/ CLI
+
+  LLM driven Shell command assistant
+
+      _______________
+     |  ___________  |
+     | |           | |
+     | |  0     0  | |  /     
+     | |     ‿     | | /
+     | |___________|_|/       
+    /|               |
+   / |  ===          |
+  /  |         ^   o |
+     |    +      0   |
+     |____________ __|
+          |     |
+    "I help you with shell commands, friend!"
 
 ================================
 ```
@@ -24,9 +37,9 @@ understand what you need.
 ```bash
 $ bmo rename all txt files to md
 
-🤖 BMO: Hmm, let me think about that...
+[o ‿ o] BMO: Hmm, let me think about that...
 
-🤖 BMO: Renames all .txt files to .md - let's do this!
+[◠ ‿ ◠] BMO: Renames all .txt files to .md - let's do this!
 
   for file in *.txt; mv $file (basename $file .txt).md; end
 
