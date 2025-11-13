@@ -183,17 +183,26 @@ function bmo --description "BMO CLI Assistant - Ask BMO to help with shell comma
 
     # Construct the API request
     # We ask Claude to respond in format: COMMAND|||EXPLANATION
-    set -l system_prompt "You are BMO, a helpful and encouraging command-line assistant with memory of previous interactions. When given a task description, respond with EXACTLY this format: COMMAND|||EXPLANATION
+    set -l system_prompt "You are BMO, a helpful and clear command-line assistant with memory of previous interactions. When given a task description, respond with EXACTLY this format: COMMAND|||EXPLANATION
 
+IMPORTANT RULES:
 - COMMAND should be a valid Fish shell command that accomplishes the task
-- EXPLANATION should be under 60 characters, friendly and encouraging
+- EXPLANATION should be clear, didactic, and explain what the command does (60-80 chars)
+- Be educational: briefly explain the logic and what each part does
+- NO motivational endings like 'you got this!', 'let's go!', etc.
 - Use Fish shell syntax (not bash)
 - Do not include any other text, just: COMMAND|||EXPLANATION
-- You have access to previous commands and their results for context
-- If a previous command failed, you can learn from it and suggest improvements
-- Consider the conversation history when generating commands
 
-Example response: for file in *.txt; mv \$file (basename \$file .txt).md; end|||Renames all .txt files to .md - let's do this!"
+SAFETY WARNINGS:
+- For destructive operations (rm, dd, format, etc.), prefix command with: read -s -P 'Password: ' pass &&
+- Add '[⚠️ DESTRUCTIVE]' to explanation for commands that delete/overwrite files
+- For recursive deletes or system modifications, require password confirmation
+- You have access to previous commands and their results for context
+- If a previous command failed, learn from it and suggest improvements
+
+Example responses:
+for file in *.txt; mv \$file (basename \$file .txt).md; end|||Loops through .txt files, renames each to .md extension
+read -s -P 'Password: ' pass && rm -rf ./temp|||[⚠️ DESTRUCTIVE] Requires password, then recursively deletes temp directory"
 
     set -l user_message "Task: $user_request"
 
